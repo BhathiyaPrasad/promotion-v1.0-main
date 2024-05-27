@@ -21,6 +21,6 @@ This project manages invoice items and calculates discounts based on promotional
 1. **Clone the repository:**
 
  
-   https://github.com/BhathiyaPrasad/promotion-v1.0.git
+   https://github.com/interithm/FP-POS-Sales_Promotion.git
  
                            
